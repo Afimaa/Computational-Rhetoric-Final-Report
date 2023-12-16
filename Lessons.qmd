@@ -1,0 +1,34 @@
+---
+title: "Lessons"
+---
+
+## Observations
+1. I have become more aware of some weaknesses of automated methods. 
+Doing this work computationally confirmed some of the concerns raised by Lauer et al.(2018) in their work. One of the concerns they express is that automated methods of data collection like webscraping should not be concluded as the best over manual methods of data collection because "automated data collection methods are likely to introduce errors into a data set by mistakenly introducing irrelevant data" (391). 
+After using an automated data collection method in this work, I could not agree more with this observation. Most of the problems I encountered in my analysis was because a lot of irrelevant data had been pulled through my scrape of the subreddits. Going into this project, I assumed my code could automatically sift through the data and pick only relevant ones but that did not happen. 
+I am in no way undermining automated methods. In fact, I really appreciate the time it saved me and the amount of work it allowed me do in a very limited time period. However, this experience has me agreeing very much with Schafer and Hase (2013) and Lauer et al's (2018) call for mixed approaches in research. 
+From this, I have been reminded once again that instead of pitching certain methods as better or worse than others, it is better to engage methods more thoughtfully and in a complementary manner. 
+
+2. Computational methods are not objective. 
+Looking at how much I had to manipulate the data by removing rows and words, I have learnt that computational methods can be as subjective as manual methods because a lot of the decisions made in this project were based on my own subjective reasoning, understanding, and what I was looking for in this project. As such, the results of this research, even though mostly done computationally, are still very subjective. 
+
+3. Practice makes perfect!
+I am very surprised at how much I have learnt about topic modeling in doing this research. I started this work not knowing much beyond clicking "command+return" to run prewritten codes. Doing this project and struggling through errors, identifying problems and trying to find possible solutions have given me a deeper understanding of this method, and if I were to do this again, things would be very different. 
+
+## References
+Cook, J. [James Cook]. (2023, April, 17). Extracting Reddit Data With R and the package RedditExtractoR (2023 Update)[Video]. YouTube. https://www.youtube.com/watch?v=Snm0Azfi_hc
+
+Lauer, C., Brumberger, E., & Beveridge, A. (2018). Hand collecting and coding versus data-driven methods in technical and professional communication research. IEEE Transactions on Professional Communication, 61(4), 389-408.
+
+Miller, B. (2022). Distant Readings of Disciplinarity: Knowing and Doing in Composition/rhetoric Dissertations. University Press of Colorado.
+
+Schäfer, M. S., & Hase, V. (2023). Computational methods for the analysis of climate change communication: Towards an integrative and reflexive approach. Wiley Interdisciplinary Reviews: Climate Change, 14(2), e806.
+
+Silge, J. (2018). Training, evaluating, and interpreting topic models. Julia Silge, 8, 2018.
+
+Vee, A. (2017). Coding literacy: How computer programming is changing writing. Mit Press.
+
+
+
+
+

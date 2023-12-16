@@ -1,0 +1,22 @@
+---
+title: "Themes in AI Discourse: r/Academia vs. r/Technicalwriting"
+subtitle: "By Emmanuella Afimaa"
+---
+
+## Introduction
+I set out to conduct a preliminary exploration of some themes that come up in conversations on AI in both the Academic and Technical Writing Industries using computational methods. This report describes the entire research experience right from what informed the selection of this research topic, to the methods used, some findings, and lessons. 
+
+## Project Topic Selection 
+At the time of selecting topics, the only thing I was sure of was that I wanted to do a project on AI and writing but I did not know the specific form or question I was going to look at. Thus, my topic evolved from looking at AI policies of First Year Writing classes, to looking at themes in ethical concerns about the use of ChatGPT, and, eventually, the topic became what it is right now, looking at how folks in academia and the technical writing industry talk about AI and the themes that arise from the conversations in those contexts. 
+
+My aim for conducting such a comparative study and not just looking from one angle was to try to deduce from the conversations if there are gaps in how academia is preparing students for the industry which is being heavily permeated by AI writing tools. That is, I was curious about whether there are certain critical topics in the technical writing industry's discussion on AI that academia is not considering. Finding and addressing these gaps could help academia better equip students for the industry. I did not end up answering this question but I think that a deeper comparative study on this topic would be very helpful in identifying some of those gaps. 
+
+## Methodology 
+I decided on using computational methods for this study in order to get further practice, and a better understanding of at least one of the computational methods I have been introduced to in this class.This was my way of developing my "coding literacy". As Vee (2017) states, the affordances coding, and by extension, computational methods provide make them a very significant tool in various contexts. Therefore, with my professional development in mind, I wanted to leave this class with some level of experience with computational methods and I knew the best way to do that was to engage computational methods in this project even though my expertise on the method was not the best. 
+Among the computational methods we explored in this class, which include citation analysis, sentiment analysis and network analysis, topic modeling felt the best suited for the kind of work I was doing in this project. According to Miller (2022), topic modeling has been applied to various corpus to identify trendlines in various areas of concern (p. 32). This ability of topic modeling to point out trends in data through the topics it generates makes it good for exploratory works like what I set out to do in this project. 
+
+## Source of Data
+For this project, I collected my data from two relevant subreddits - r/academia and r/technical writing. 
+ With Reddit, there are communities or subreddits dedicated to various interests and are often named according to those interests. Therefore, it was quite easy to find subreddits on academia and technical writing by just searching those terms. This was a very convenient and easy way of getting access to the data I needed for this work. 
+I provide detailed descriptions of these two subreddits and outline my data collection process from each on their respective dedicated web pages.
+

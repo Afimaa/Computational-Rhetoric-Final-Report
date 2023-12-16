@@ -1,0 +1,21 @@
+project:
+  type: website
+
+website:
+  title: "Final Project"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - TechWritTM.qmd
+      - AcademiaTM.qmd
+      - Lessons.qmd
+
+format:
+  html:
+    theme: solar
+    css: styles.css
+    toc: true
+
+editor: visual
+
